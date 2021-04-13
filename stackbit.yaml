@@ -21,12 +21,6 @@ models:
         label: Title
         description: Site title
         required: true
-      - type: string
-        name: domain
-        label: Domain
-        description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
       - type: image
         name: favicon
         label: Favicon
