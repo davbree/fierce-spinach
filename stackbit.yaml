@@ -16,11 +16,6 @@ models:
     type: config
     label: Site Configuration
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: Site title
-        required: true
       - type: image
         name: favicon
         label: Favicon
