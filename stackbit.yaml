@@ -11,4 +11,3 @@ pageLayoutKey: template
 logicFields:
   - blog_feed_section.recent_count
   - hero_section.background.background_image_opacity
-models:
